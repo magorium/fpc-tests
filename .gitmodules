@@ -1,0 +1,4 @@
+[submodule "lcl/SynEditTest/SynFacil"]
+	path = lcl/SynEditTest/SynFacil
+	url = https://github.com/magorium/SynFacilSyn
+	branch = changes_for_EdiSyn
